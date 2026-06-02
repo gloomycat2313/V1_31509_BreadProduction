@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_31509_BreadProduction", "V_31509_BreadProduction.csproj", "{1E6FDF92-C28D-484D-969A-77C2930E437A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V1_31509_ValidationApp", "V1_31509_ValidationApp\V1_31509_ValidationApp.csproj", "{E67DD136-C904-490B-9E37-698F613BB10D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E6FDF92-C28D-484D-969A-77C2930E437A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6FDF92-C28D-484D-969A-77C2930E437A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6FDF92-C28D-484D-969A-77C2930E437A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6FDF92-C28D-484D-969A-77C2930E437A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67DD136-C904-490B-9E37-698F613BB10D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67DD136-C904-490B-9E37-698F613BB10D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67DD136-C904-490B-9E37-698F613BB10D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67DD136-C904-490B-9E37-698F613BB10D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DC6D899-D03C-4498-8647-A14F209ABD64}
+	EndGlobalSection
+EndGlobal

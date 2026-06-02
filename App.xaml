@@ -1,0 +1,12 @@
+﻿<Application x:Class="V_31509_BreadProduction.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:V_31509_BreadProduction"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="MinWidth" Value="150"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+    </Application.Resources>
+</Application>
